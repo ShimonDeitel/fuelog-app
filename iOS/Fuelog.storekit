@@ -1,0 +1,29 @@
+{
+  "identifier": "Fuelog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "fuelog_pro",
+      "localizations": [
+        {
+          "description": "Per-job fuel cost rollup and MPG trend chart",
+          "displayName": "Fuelog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.fuelog.pro",
+      "referenceName": "Fuelog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
